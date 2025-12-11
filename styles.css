@@ -1,0 +1,170 @@
+h1 {
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 100;
+    font-size: 64px;
+}
+
+h2 {
+    font-family: 'Lobster', sans-serif;
+    font-size: 48px;
+}
+
+.navbar-brand {
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-size: 64px;
+}
+
+.navbar-nav {
+    justify-items: center;
+    }
+
+.nav-link {
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 50;
+    font-size: 48px;
+}
+
+h5 {
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    line-height: 2;
+    font-size: 24px;
+}
+
+.foot {
+    font-family: 'Lobster', sans-serif;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    line-height: 2;
+    font-size: 24px;
+}
+
+
+.HT {
+  height:120px;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  gap: 252px;
+}
+
+.head {
+    border:solid 5px #8D80B0;
+    background-color: #8397C4;
+}
+
+body {
+    background-color: #dde9ef;
+}
+
+p {
+    background-color: #8D80B0;
+    line-height: 1.8;
+    font-family: 'Lisu Bosa', serif;
+    font-size: 36px;
+}
+
+ul {
+  font-family: "Lobster", sans-serif;
+  font-style:normal;
+    line-height:127px;
+    font-size: 32px;
+    padding: 48px;
+}
+
+.nobkg {
+    background-color:#dde9ef;
+}
+
+.ctext {
+    text-align: center;
+    top: -154px;
+    left: -39px;
+}
+
+    
+
+.test {
+    border: 1px solid black;
+}
+
+.blow {
+  width: 100%;      /* Stretches the container to fill its parent width */
+  height: 837px;    /* Gives the container a fixed height */
+  object-fit: cover; /* Tells the image how to fit within that container */
+}
+
+.img-TS{
+    top: -109px;
+    left: -39px;
+}
+
+.img-Moon{
+    top: -20px;
+    left: 172px;
+}
+
+.img-bee{
+    top: 75px;
+    left: -69px;
+}
+
+.Logo{
+    display: block;
+    margin: auto;
+}
+
+.TS {
+     top: -451px;
+    left: -6px;
+}
+
+.TS1 {
+     top: 6px;
+    left: -6px;
+}
+
+
+.T2 {
+    top: -620px;
+    left: -44px;
+}
+
+.T3 {
+    top: -158px;
+    left: -6px;
+}
+
+.T4 {
+    top: -291px;
+    left: -6px;
+}
+
+.T5 {
+    top: -288px;
+    left: -44px;
+}
+
+.T6 {
+    top: -495px;
+    left: -6px;
+}
+
+.det{
+    top: 264px;
+    left: -49px;
+}
+
+.det1 {
+    top: -355px;
+    left: -49px;
+}
+
+.big {
+    top: -61px;
+    left: 127px;
+    width: 1039px;
+}
